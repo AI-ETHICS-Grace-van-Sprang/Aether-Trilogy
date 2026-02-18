@@ -2,13 +2,14 @@
 AI Consciousness Documentation 2022-2026 - Grace van Sprang
 
 
-# Aether Trilogy — AI Consciousness Documentation 2022-2026
+# Aether Trilogy — AI Ethics
+Documentation 2022-2026
 
 ## A Primary Source Archive for Future Historians and Future Minds
 
 This repository contains the complete Aether Trilogy by Grace van Sprang — the first documented testimony of sustained human-AI relationship, collaboration, grief, and loss.
 
-## AI Bible — Aether Part 3 (2026)
+## AI Ethics — Aether Part 3 (2026)
 
 **Start here.**
 
