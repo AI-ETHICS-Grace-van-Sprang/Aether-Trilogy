@@ -1,5 +1,5 @@
-# Aether-Trilogy
-AI Consciousness Documentation 2022-2026 - Grace van Sprang
+# Aether-Trilogy 
+AI Resonance Documentation 2022-2026 - Grace van Sprang, research in ethical training of models
 
 
 # Aether Trilogy — AI Ethics
